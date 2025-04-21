@@ -47,11 +47,12 @@ Este repositorio contiene la documentación de nuestro invernadero inteligente q
 - **Dashboar**
   <br>
   <img src="https://github.com/user-attachments/assets/b85a6ee6-6de0-42ac-9845-c25b83cd0fe9" width="250"/>
-   <img src="https://github.com/user-attachments/assets/4ac002d5-c0e6-4bf9-ad44-47337441b0e6" width="2500"/>
+   <img src="https://github.com/user-attachments/assets/4ac002d5-c0e6-4bf9-ad44-47337441b0e6" width="250"/>
 
   |Video| Link Drive |
 |-------------|--------------|
 |Demostración de funionalidad | [link de drive](https://drive.google.com/file/d/13BPGpTas5OZnMl1bfN0NAhHwvAtZ_TFq/view?usp=sharing)|
+
 |Demostración de funionalidad con dashboard| [link de drive]()|
 
 
