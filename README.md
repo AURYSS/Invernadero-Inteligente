@@ -41,10 +41,18 @@ Este repositorio contiene la documentación de nuestro invernadero inteligente q
 |Manguera |<img src="https://github.com/user-attachments/assets/6915b100-0c3e-4317-be71-642226ce3999" width="100"/> | 2 m |5 c/u|
 
 ## 📌 Funcionalidad
-- **Base de datod**
-  <img src="" width="100"/>
+- **Base de datos**
+  <img src="https://github.com/user-attachments/assets/ac39616b-7bef-42a5-bc48-602677160fd9" width="250"/>
 - **Dashboar**
-  <img src="" width="100"/>
+  <img src="https://github.com/user-attachments/assets/b85a6ee6-6de0-42ac-9845-c25b83cd0fe9" width="250"/>
+   <img src="https://github.com/user-attachments/assets/4ac002d5-c0e6-4bf9-ad44-47337441b0e6" width="100"/>
+
+  |Video| Link Drive |
+|-------------|--------------|
+|Demostración de funionalidad | [link de drive](https://drive.google.com/file/d/13BPGpTas5OZnMl1bfN0NAhHwvAtZ_TFq/view?usp=sharing)|
+|Demostración de funionalidad con dashboard| [link de drive]()|
+
+
 
 ## 📌 Evidencia de desarrollo
 <img src="https://github.com/user-attachments/assets/5fb05977-62d3-41ba-88d2-c4eec2bb2998" width="100"/>
@@ -58,5 +66,4 @@ Este repositorio contiene la documentación de nuestro invernadero inteligente q
 - **Python** 
 - **Node-RED** 
 - **Arduino** 
-- **Mosquitto MQTT** 📡
-- **Raspberry Pi** 🍓
+- **Base de datos en Google Sheets integrada vía Google Apps Script** 
