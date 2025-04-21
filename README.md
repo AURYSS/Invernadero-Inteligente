@@ -10,7 +10,6 @@ Este repositorio contiene la documentación de nuestro invernadero inteligente q
 
 ## 📌 Materiales
 
-## Materiales a utilizar
 | Material | Imagen | Cantidad | Costo |
 |----------|--------|----------|-------|
 | ESP32    | <img src="https://github.com/user-attachments/assets/0d280367-493e-4f7c-a587-36e1f822116b" width="100"/> | 1 | 120.00 |
