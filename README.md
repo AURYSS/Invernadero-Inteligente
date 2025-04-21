@@ -43,9 +43,11 @@ Este repositorio contiene la documentación de nuestro invernadero inteligente q
 ## 📌 Funcionalidad
 - **Base de datos**
   <img src="https://github.com/user-attachments/assets/ac39616b-7bef-42a5-bc48-602677160fd9" width="250"/>
+   <br>
 - **Dashboar**
+  <br>
   <img src="https://github.com/user-attachments/assets/b85a6ee6-6de0-42ac-9845-c25b83cd0fe9" width="250"/>
-   <img src="https://github.com/user-attachments/assets/4ac002d5-c0e6-4bf9-ad44-47337441b0e6" width="100"/>
+   <img src="https://github.com/user-attachments/assets/4ac002d5-c0e6-4bf9-ad44-47337441b0e6" width="2500"/>
 
   |Video| Link Drive |
 |-------------|--------------|
