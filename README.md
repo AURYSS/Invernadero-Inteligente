@@ -2,7 +2,7 @@
 ### 📌 Autores
 | Nombre | Bryan Emilio López | Jennifer Ailin Medina Hernández | Cecilia Aurora Robelo Hernández |
 |--------------|--------------|--------------|--------------|
-| Numero de control | | 1223100426 | 1223100458|
+| Numero de control | 1223100380| 1223100426 | 1223100458|
 | Grupo | GDS0653 | GDS0652 | GDS0652 |
 
 ## 📌 Descripción
