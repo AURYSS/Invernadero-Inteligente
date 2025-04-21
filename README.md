@@ -21,10 +21,10 @@ Este repositorio contiene la documentación de nuestro invernadero inteligente q
 |Modulo de 2 relevadores 5v-10v |<img src="https://github.com/user-attachments/assets/6d66288a-f2ca-49e1-b9b2-f6ec85a04798" width="100"/> | 2 |55.00|
 |Cableado para conexiones |<img src="https://m.media-amazon.com/images/I/71fdyWUFT8L.jpg" width="100"/> | Varios |120 c/u|
 |Caja de madera |<img src="https://github.com/user-attachments/assets/f9a9ad27-2bbd-4a1b-9a83-c457f8e089fa" width="100"/> | 1 |90.00|
-|Cableado para conexiones |<img src="https://m.media-amazon.com/images/I/71fdyWUFT8L.jpg" width="100"/> | Varios ||
-|Relleno para almohada |<img src="https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/6fd48480dfdaf037af68aa1085d1d809.jpg?imageMogr2/auto-orient%7CimageView2/2/w/800/q/70/format/webp" width="100"/> | 250 g |35|
-|Alambre de cobre grueso |<img src="https://aymet.com.ar/wp-content/uploads/2023/05/cobre.webp" width="100"/> | 1 m |35|
-|Botella de Plastico |<img src="https://thumbs.dreamstime.com/z/botella-de-refresco-pl%C3%A1stico-grande-sobre-fondo-blanco-253497383.jpg" width="100"/> | 1  ||
+|Mini ventilador |<img src="https://github.com/user-attachments/assets/e6c2a817-ffd7-40a2-ae39-3b0c8f84e8b6" width="100"/> | 1 | 135.00|
+|Pantalla LCD|<img src="https://github.com/user-attachments/assets/64096a35-a726-427a-9292-b6a9d7cb2ab6" width="100"/> | 1 |67.58|
+|Alambre galvanizado|<img src="https://github.com/user-attachments/assets/14dd24c1-02aa-4923-b3bd-588ff28a118a" width="100"/> | 3 m |10 c/u|
+|Estaño |<img src="https://github.com/user-attachments/assets/9c36958f-4074-4b0d-b648-dd04b3779b73" width="100"/> | 2 m  |15 c/u|
 |Cutter |<img src="https://www.construactivo.com/5896-large_default/cutter-profesional-alma-metalica-18mm-truper.jpg" width="100"/> | 1  |15|
 |Silicona Caliente |<img src="https://i.pinimg.com/736x/e9/57/cc/e957ccedc373cd614b2b0b99678acb0d.jpg" width="100"/> | 1  |50|
 
