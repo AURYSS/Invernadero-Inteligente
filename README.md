@@ -36,15 +36,28 @@ Este repositorio contiene la documentación de nuestro invernadero inteligente q
 |Caja de plastico |<img src="https://github.com/user-attachments/assets/61b484c2-adca-408d-9669-c96fcf80f871" width="100"/> | 1 ||
 |Enrredadera |<img src="https://github.com/user-attachments/assets/83a7bd59-76f6-4532-bb16-db5bdf988d6e" width="100"/> | 2 m |80.00|
 |Hule de plastico para invernadero |<img src="https://github.com/user-attachments/assets/184abc8f-dbf1-4161-86b3-e5f9160ea700" width="100"/> | 2 m ||
+|Bote |<img src="https://github.com/user-attachments/assets/66eb3a64-dc7b-474d-a3cf-c8ba8c2906a1" width="100"/> | 1 ||
+|Cinta de aislante|<img src="https://github.com/user-attachments/assets/9b5328bf-d64b-41fc-bda9-9ebeaeda0cea" width="100"/> | 1 |65.00|
+|Cargador |<img src="https://github.com/user-attachments/assets/b2cb061f-f479-43fd-acf4-51e93581ea36" width="100"/> | 2 |100.00 c/u|
+|Manguera |<img src="https://github.com/user-attachments/assets/6915b100-0c3e-4317-be71-642226ce3999" width="100"/> | 2 m |5 c/u|
 
 ## 📌 Funcionalidad
+- **Base de datod**
+  <img src="" width="100"/>
+- **Dashboar**
+  <img src="" width="100"/>
+
 ## 📌 Evidencia de desarrollo
-
-
+<img src="https://github.com/user-attachments/assets/5fb05977-62d3-41ba-88d2-c4eec2bb2998" width="100"/>
+<img src="https://github.com/user-attachments/assets/4620d794-b298-44ad-93f2-2b6b05efc1ea" width="100"/>
+<img src="https://github.com/user-attachments/assets/09580a74-8492-46f6-b496-9f7a4ff4f2e4" width="100"/>
+<img src="https://github.com/user-attachments/assets/d2903096-74d7-4a82-b7b9-6c72e9f035a3" width="100"/>
+<img src="https://github.com/user-attachments/assets/27089811-2789-4284-8491-694b3c06b13c" width="100"/>
+<img src="https://github.com/user-attachments/assets/2277a666-b3cc-4334-9fec-b65b76b454a7" width="100"/>
 
 ## 🚀 Tecnologías Utilizadas
-- **Python** 🐍
-- **Node-RED** 🔗
-- **PostgreSQL** 🛢️
+- **Python** 
+- **Node-RED** 
+- **Arduino** 
 - **Mosquitto MQTT** 📡
 - **Raspberry Pi** 🍓
