@@ -9,7 +9,7 @@
 Este repositorio contiene la documentación de nuestro invernadero inteligente que tiene como proposito con un servomor abre una pequeña ventana, un foco para controlar la luminosidad, una bomba de agua conectada a una mangera que riega dependiendo de los valores que marque el sensor de humedad localizado en las plantas, ademas que cuenta con un sensor de temperatura que enciende un ventilador, los valores son mostrados en una pantalla que esta localizada en una carcasa pintada a mano. 
 
 ## 📌 Materiales
-
+ 
 | Material | Imagen | Cantidad | Costo |
 |----------|--------|----------|-------|
 | ESP32    | <img src="https://github.com/user-attachments/assets/0d280367-493e-4f7c-a587-36e1f822116b" width="100"/> | 1 | 120.00 |
