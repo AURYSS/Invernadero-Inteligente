@@ -52,8 +52,8 @@ Este repositorio contiene la documentación de nuestro invernadero inteligente q
 
 | Video | Link Drive | 
 |--------------|--------------|
-|Funcionalidad  |[link de drive](https://drive.google.com/file/d/1Qd2m7gsoVNHioD_9dFFVSNJ_GUJ7lbHT/view?usp=sharing)|
-|Funcionalidad con dashboard| [link de drive](https://drive.google.com/file/d/13BPGpTas5OZnMl1bfN0NAhHwvAtZ_TFq/view?usp=sharing)| 
+|Funcionalidad con dashboard |[link de drive](https://drive.google.com/file/d/1Qd2m7gsoVNHioD_9dFFVSNJ_GUJ7lbHT/view?usp=sharing)|
+|Funcionalidad | [link de drive](https://drive.google.com/file/d/13BPGpTas5OZnMl1bfN0NAhHwvAtZ_TFq/view?usp=sharing)| 
 
 
 ## 📌 Evidencia de desarrollo
